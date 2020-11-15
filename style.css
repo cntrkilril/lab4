@@ -80,7 +80,7 @@ body {
     color: black;
     float: left;
     position: absolute;
-    top: 15%;
+    top: 150px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
@@ -91,7 +91,7 @@ body {
     color: #464646;
     float: left;
     position: absolute;
-    top: 20%;
+    top: 200px;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
@@ -228,4 +228,151 @@ body {
     width: 360px;
     height: 360px;
     margin-left: 15px;
+}
+.block4 {
+    background-image: url("img/block1/Bg1.png");
+    width: 100%;
+    height: 1800px;
+    position: relative;
+}
+.bl41 {
+    float: left;
+    margin-left: 200px;
+    position: absolute;
+    margin-top: 350px;
+}
+.bl411 {
+    float: left;
+    width: 657px;
+    height: 438px;
+    background-color:  turquoise;
+}
+.serv {
+    margin-top: 50px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.servA {
+    margin-top: 50px;
+    margin-left: 50px;
+    font-size: 17px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    width: 470px;
+    color: #464646;
+}
+.krest {
+    margin-left: 70px;
+    margin-top: 70px;
+}
+.img42 {
+    float: left;
+    width: 438px;
+    height: 438px;
+    margin-left: 10px;
+}
+.bl412 {
+    position: absolute;
+    width: 438px;
+    height: 438px;
+    margin-left: 677px;
+    background-color: rgba(0, 0, 0, 0.5);;
+}
+.zag42 {
+    position: absolute;
+    top: 200px;
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+.abz42 {
+    position: absolute;
+    top: 240px;
+    margin-left: 50px;
+    font-size: 17px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    width: 300px;
+    color: white;
+}
+.know {
+    position: absolute;
+    margin-left: 50px;
+    top: 330px;
+    text-decoration: none;
+    color: white;
+}
+.strela {
+    float: left; 
+    position: absolute;
+    top: 350px;
+    left: 200px;
+}
+.bl42 {
+    float: left;
+    margin-left: 200px;
+    margin-top: 805px;
+}
+.img43 {
+    float: left;
+    width: 657px;
+    height: 438px;
+}
+.bl412b {
+    position: absolute;
+    width: 657px;
+    height: 438px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.abz42b {
+    position: absolute;
+    top: 240px;
+    margin-left: 50px;
+    font-size: 17px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    width: 410px;
+    color: white;
+}
+.bl43 {
+    position: absolute;
+    float: left;
+    margin-left: 200px;
+    margin-top: 1260px;
+}
+.bl13b {
+    position: absolute;
+    width: 657x;
+    height: 438px;
+    margin-left: 677px;
+    background-color: rgba(0, 0, 0, 0.5);;
+}
+.bl13m {
+    position: absolute;
+    width: 438px;
+    height: 438px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.img45 {
+    float: left;
+    width: 438px;
+    height: 438px;
+}
+.img46 {
+    float: left;
+    width: 657px;
+    height: 438px;
+    margin-left: 10px;
+}
+.bl43b {
+    position: absolute;
+    width: 657px;
+    height: 438px;
+    margin-left: 458px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+.bl43m {
+    position: absolute;
+    width: 438px;
+    height: 438px;
+    background-color: rgba(0, 0, 0, 0.5);
 }
