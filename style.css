@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 .block1 {
-    background-image: url("bg.png");
+    background-image: url("img/block1/Bg1.png");
     width: 100%;
     height: 1000px;
     position: relative;
@@ -62,4 +62,124 @@ body {
 }
 .cont:hover {
     background-color: turquoise;
+}
+.glass {
+    float: right;
+    margin-right: 0;
+    margin-top: 740px;
+}
+.block2 {
+    background-image: url("img/block2/Bg2.png");
+    width: 100%;
+    height: 1000px;
+    position: relative;
+}
+.about {
+    font-size: 40px;
+    font-family: 'Lucida Sans', sans-serif;
+    color: black;
+    float: left;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.lorem {
+    font-size: 20px;
+    font-family: #464646;
+    color: #464646;
+    float: left;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.zakreslom {
+    width: 482px;
+    height: 392px;
+    background-color: rgb(230, 230, 230);
+    margin-left: 201px;
+    margin-top: 370px;
+    float: left;
+}
+.kreslo {
+    box-shadow: 0 0 10px rgba(83, 83, 83, 0.5);
+    position: absolute;
+    float: left;
+    margin-left: 246px;
+    margin-top: 350px;
+}
+.perek {
+    position: absolute;
+    float: left;
+    margin-left: 413px;
+    margin-top: 872px;
+}
+.zag21 {
+    position: absolute;
+    float: right;
+    top: 335px;
+    right: 250px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #464646;
+}
+.abz21 {
+    position: absolute;
+    float: right;
+    width: 460px;
+    text-align: justify;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    right: 226px;
+    top: 392px;
+    line-height: 25px;
+}
+.abz22 {
+    position: absolute;
+    float: right;
+    width: 460px;
+    text-align: justify;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    right: 226px;
+    top: 550px;
+    line-height: 25px;
+}
+.zag22 {
+    position: absolute;
+    float: right;
+    top: 635px;
+    right: 448px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #464646;
+}
+.abz23 {
+    position: absolute;
+    float: right;
+    width: 460px;
+    text-align: justify;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    right: 226px;
+    top: 685px;
+    line-height: 25px;
+}
+.abz24 {
+    position: absolute;
+    float: right;
+    width: 460px;
+    text-align: justify;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 16px;
+    color: #757575;
+    right: 226px;
+    top: 735px;
+    line-height: 25px;
 }
