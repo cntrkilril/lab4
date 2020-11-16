@@ -230,7 +230,7 @@ body {
     margin-left: 15px;
 }
 .block4 {
-    background-image: url("img/block1/Bg1.png");
+    background-image: url("img/block2/Bg2.png");
     width: 100%;
     height: 1800px;
     position: relative;
@@ -375,4 +375,104 @@ body {
     width: 438px;
     height: 438px;
     background-color: rgba(0, 0, 0, 0.5);
+}
+.block5 {
+    background-color: white;
+    width: 100%;
+    height: 1380px;
+    position: relative;
+}
+.blimg3 {
+    position: absolute;
+    float: left;
+    margin-top: 350px;
+    margin-left: 200px;
+}
+.img51 {
+    width: 360px;
+    height: 450px;
+}
+.img52 {
+    width: 360px;
+    height: 450px;
+    margin-left: 15px;
+}
+.img53 {
+    width: 360px;
+    height: 450px;
+    margin-left: 15px;
+}
+.slova {
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: turquoise;
+    left: 408px;
+    top: 200px;
+}
+.zag52 {
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    top: 10px;
+    left: 30px;
+}
+.zag52k {
+    position: absolute;
+    font-style: oblique;
+    color: #707070;
+    top: 18px;
+    left: 160px;
+}
+.otz {
+    position: absolute;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 15px;
+    color: #3d3d3d;
+    top: 60px;
+    left: 30px;
+    width: 220px;
+}
+.face {
+    position: absolute;
+    top: 150px;
+    left: 30px;
+}
+.twit {
+    position: absolute;
+    top: 153px;
+    left: 48px;
+}
+.ball {
+    position: absolute;
+    top: 151px;
+    left: 69px;
+}
+.poch {
+    position: absolute;
+    top: 152px;
+    left: 90px;
+}
+.treug {
+    position: absolute;
+    top: 175px;
+    left: 430px;
+    width: 0;
+	height: 0;
+	border-left: 13px solid transparent;
+	border-right: 13px solid transparent;
+	border-bottom: 26px solid  turquoise;
+}
+.blimg4 {
+    position: absolute;
+    float: left;
+    margin-top: 820px;
+    margin-left: 200px;
+}
+.block6 {
+    background-image: url("img/block2/Bg2.png");
+    width: 100%;
+    height: 1200px;
+    position: relative;
 }
