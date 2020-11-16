@@ -717,3 +717,99 @@ body {
 .mess:hover {
     background-color: white;
 }
+.block9 {
+    background-color: #373741;
+    width: 100%;
+    height: 300px;
+    position: relative;
+}
+.fol {
+    position: absolute;
+    color: #9696a7;
+    top: 60px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.kva1 {
+    width: 40px;
+    height: 40px;
+    background-color: #55555f;
+    position: absolute;
+    top: 100px;
+    left: 660px;
+}
+.pppp {
+    font-family: ‘Droid serif’, serif;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    top: -20px;
+    left: 12px;
+}
+.kva1:hover {
+    background-color:turquoise;
+}
+.kva2:hover {
+    background-color:turquoise;
+}
+.kva3:hover {
+    background-color:turquoise;
+}
+.kva4:hover {
+    background-color:turquoise;
+}
+.kva2 {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color:#55555f;
+    position: absolute;
+    top: 100px;
+    left: 715px;
+}
+.sp1 {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.sp2 {
+    position: absolute;
+    top: 9px;
+    left: 13px;
+}
+.kva3 {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color: #55555f;
+    position: absolute;
+    top: 100px;
+    left: 770px;
+}
+.sp3 {
+    position: absolute;
+    top: 9px;
+    left: 9px;
+}
+.kva4 {
+    float: left;
+    width: 40px;
+    height: 40px;
+    background-color: #55555f;
+    position: absolute;
+    top: 100px;
+    left: 825px;
+}
+.copy {
+    position: absolute;
+    top: 165px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 13px;
+    color: #9696a7;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
