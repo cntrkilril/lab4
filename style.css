@@ -473,6 +473,89 @@ body {
 .block6 {
     background-image: url("img/block2/Bg2.png");
     width: 100%;
-    height: 1200px;
+    height: 1000px;
     position: relative;
+}
+.zachel {
+    width: 428px;
+    height: 400px;
+    background-color: rgb(230, 230, 230);
+    left: 201px;
+    top: 385px;
+    position: absolute;
+}
+.chel {
+    box-shadow: 0 0 10px rgba(83, 83, 83, 0.5);
+    width: 360px;
+    height: 450px;
+    position: absolute;
+    top: 360px;
+    left: 234px;
+}
+.perek2 {
+    position: absolute;
+    left: 388px;
+    top: 855px;
+}
+.tekst {
+    width: 616px;
+    height: 400px;
+    background-color: rgb(230, 230, 230);
+    left: 700px;
+    top: 385px;
+    position: absolute;
+}
+.zag62 {
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    top: 80px;
+    left: 190px;
+}
+.zag62k {
+    position: absolute;
+    font-style: oblique;
+    color: #707070;
+    top: 86px;
+    left: 320px;
+}
+.abz62 {
+    position: absolute;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-size: 15px;
+    color: #707070;
+    top: 140px;
+    left: 95px;
+    width: 420px;
+    text-align: center;
+    line-height: 25px;
+}
+.zvez {
+    position: absolute;
+    top: 300px;
+    left: 250px;
+}
+.kv1 {
+    position: absolute;
+    background-color: #e4e5e6a1;
+    width: 50px;
+    height: 50px;
+    top: 820px;
+    left: 1190px;
+}
+#kv2 {
+    left: 1266px;
+}
+.snape {
+    transform: scale(-1, 1);
+    margin-top: 17px;
+    margin-left: 17px;
+}
+.snape2 {
+    margin-top: 17px;
+    margin-left: 17px;
+}
+.kv1:hover {
+    background-color: turquoise;
 }
